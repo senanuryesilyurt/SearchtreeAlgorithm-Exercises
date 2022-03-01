@@ -1,1 +1,2 @@
-# SearchtreeAlgorithmPractices
+# Search Tree Algorithm Practices
+
