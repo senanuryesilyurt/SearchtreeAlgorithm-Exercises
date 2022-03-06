@@ -1,2 +1,2 @@
-# Search Tree Algorithm Practices
+### Search Tree Algorithm Practices
 
